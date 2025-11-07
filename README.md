@@ -15,7 +15,7 @@ The final model, a **Logistic Regression** classifier, achieved the following pe
 
 * **Accuracy:** ~78%
 
-### Classification Report
+##Classification Report
 
 Classification Report:
               precision    recall  f1-score   support
@@ -29,7 +29,7 @@ weighted avg       0.77      0.77      0.77    480000
 
 ---
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 Follow these steps to set up the project on your local machine.
 
