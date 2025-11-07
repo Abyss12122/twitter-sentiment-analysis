@@ -15,8 +15,6 @@ The final model, a **Logistic Regression** classifier, achieved the following pe
 
 * **Accuracy:** ~78%
 
-##Classification Report
-
 Classification Report:
               precision    recall  f1-score   support
 
