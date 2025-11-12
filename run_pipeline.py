@@ -3,7 +3,7 @@ from src.feature_extraction import split_data, vectorize_text
 from src.train_model import train_model, evaluate_model
 import os
 
-RAW_DATA_PATH = 'data/raw/training.1600000.processed.noemoticon.csv'
+RAW_DATA_PATH = 'D:/Work/Programs/ML Programs/sentiment-analysis-project/data/raw/data.csv'
 
 MODEL_DIR = 'models/'
 VECTORIZER_PATH = os.path.join(MODEL_DIR, 'tfidf_vectorizer.joblib')
